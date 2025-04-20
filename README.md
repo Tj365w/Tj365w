@@ -34,7 +34,7 @@
   <img height="160px" src="https://github-readme-stats.vercel.app/api?username=Tj365w&show_icons=true&theme=radical&count_private=true" />
   <img height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=Tj365w&theme=radical" />
   <br />
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Tj365w&theme=dracula&area=true&hide_border=true" />
+
 </div>
 
 ---
