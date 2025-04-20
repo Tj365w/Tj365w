@@ -23,7 +23,7 @@
 ## 🔧 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,cpp,python,html,css,js,react,nodejs,git,vscode,bash" />
+  <img src="https://skillicons.dev/icons?i=pytorch,linux,cpp,python,html,css,js,react,nodejs,git,vscode,bash" />
 </p>
 
 ---
