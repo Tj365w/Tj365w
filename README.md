@@ -13,10 +13,10 @@
 - 🎓 **Undergrad** in Electrical & Electronics Engineering @ **VIT Chennai**
 - 🔬 **Research Enthusiast** @ [Havoltz Club](https://github.com/Havoltz-Club)
 - ⚙️ **Technical Team** @ [180 Degrees Consulting VIT](https://github.com/180DC-VIT)
-- 🐧 Passionate **Garuda Linux** user – Hyprlanded all my way!
-- 🌐 Currently learning **full-stack web development**
+- 🐧 Passionate **Garuda Linux** user – **Hyprland**ed all my way!
+- 🌐 Currently learning **full-stack web development**& **PyTorch**
 - 🧰 Exploring embedded systems, control theory & machine learning
-- 🧙‍♂️ Powered by curiosity and milk
+- 🧙‍♂️ Powered by curiosity and **milk**
 
 ---
 
