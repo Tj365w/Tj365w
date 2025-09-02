@@ -16,7 +16,7 @@
 - 🐧 Passionate **Garuda Linux** user – **Hyprland**ed all my way!
 - 🌐 Currently learning **full-stack web development**& **PyTorch**
 - 🧰 Exploring embedded systems, control theory & machine learning
-- 🧙‍♂️ Powered by curiosity and **milk**
+- 🧙‍♂️ Powered by curiosity
 
 ---
 
