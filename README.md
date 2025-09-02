@@ -1,6 +1,6 @@
 <!-- Profile README for Tejash Agarwalla -->
 
-<h1 align="center">Hey there! 👋 I'm Tejash Agarwalla</h1>
+<h1 align="center">Hello there! 👋 I'm Tejash Agarwalla</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=7FFFD4&center=true&vCenter=true&width=435&lines=EEE+Student;Research+%40+Havoltz-Club;Tech+Team+%40180DC-VITC;Linux+user+%28Garuda%29;Web+Dev+Enthusiast+%F0%9F%9A%80" alt="Typing SVG" />
